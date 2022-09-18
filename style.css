@@ -54,13 +54,6 @@ header div img {
     border-radius: 50%;
 }
 
-/*Organizando os cartões em suas posições (um ao lado do outro*/
-/*main é um seletor universal, pega tudo que esta dentro do main
-main * {
-    border: 1px solid red;
-
-}
-*/
 main {
     max-width: 580px;
     width: 90%;
